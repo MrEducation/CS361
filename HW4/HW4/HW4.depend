@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1394634106 source:/home/drauba2/Documents/CS 361/HW4/HW4/main.c
+	<stdio.h>
+	<stdlib.h>
+
